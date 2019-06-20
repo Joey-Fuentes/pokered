@@ -27,20 +27,17 @@ _OaksLabText39::
 
 _OaksLabCharmanderText::
 	text "So! You want the"
-	line "fire #MON,"
-	cont "CHARMANDER?"
+	line "MEW?"
 	done
 
 _OaksLabSquirtleText::
 	text "So! You want the"
-	line "water #MON,"
-	cont "SQUIRTLE?"
+	line "FARFETCHD?"
 	done
 
 _OaksLabBulbasaurText::
 	text "So! You want the"
-	line "plant #MON,"
-	cont "BULBASAUR?"
+	line "ZAPDOS?"
 	done
 
 _OaksLabMonEnergeticText::

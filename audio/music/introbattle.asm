@@ -1,86 +1,71 @@
 Music_IntroBattle_Ch0::
-	tempo 98
+	tempo 180
 	volume 7, 7
 	duty 3
 	vibrato 6, 3, 4
 	toggleperfectpitch
 	notetype 12, 11, 1
 	rest 8
-	octave 2
+	octave 4
+	E_ 2
+	D_ 2
+	C_ 2
+	D_ 2
+	E_ 3
+	E_ 2
+	E_ 4
+	D_ 2
+	D_ 2
+	D_ 4
+	E_ 2
 	A_ 2
-	A_ 2
+	A_ 4
 	notetype 12, 11, 4
-	octave 3
+	octave 12
 	D_ 4
 	notetype 12, 11, 1
-	octave 2
-	A_ 2
-	A_ 2
-	notetype 12, 11, 4
-	octave 3
-	D# 4
-	notetype 12, 11, 1
-	octave 2
-	A_ 2
-	A_ 2
-	notetype 12, 11, 4
-	octave 3
-	D_ 4
-	notetype 12, 11, 1
-	octave 2
-	A_ 2
-	A_ 2
-	notetype 12, 10, 0
-	A# 4
-	notetype 12, 11, 1
-	A_ 2
-	A_ 2
-	notetype 12, 11, 4
-	octave 3
-	D_ 4
-	notetype 12, 11, 1
-	octave 2
+	octave 8
 	A_ 2
 	A_ 2
 	notetype 12, 2, 9
-	octave 3
+	octave 12
 	G_ 4
 	notetype 12, 11, 0
 	A_ 8
-	octave 2
+	octave 8
 	A_ 8
 	notetype 12, 11, 7
-	octave 3
+	octave 12
 	F_ 8
 	notetype 12, 4, 15
-	octave 2
+	octave 8
 	F_ 8
 	notetype 12, 11, 1
 	A_ 2
 	A_ 2
 	notetype 12, 11, 4
-	octave 3
+	octave 12
 	D_ 4
 	notetype 12, 11, 1
-	octave 2
+	octave 8
 	A_ 2
 	A_ 2
 	notetype 12, 11, 4
-	octave 3
+	octave 12
 	D# 4
 	notetype 12, 11, 1
-	octave 2
+	octave 8
 	A_ 2
 	A_ 2
 	notetype 12, 11, 4
-	octave 3
+	octave 12
 	F_ 4
 	notetype 12, 11, 1
-	octave 2
+	octave 8
 	A_ 2
 	A_ 2
 	notetype 12, 11, 4
-	octave 3
+	octave 12
 	G_ 4
 	notetype 12, 11, 0
 	F# 16
@@ -95,7 +80,7 @@ Music_IntroBattle_Ch1::
 	vibrato 8, 2, 5
 	notetype 12, 12, 2
 	rest 8
-	octave 3
+	octave 12
 	D_ 2
 	D_ 2
 	notetype 12, 12, 5
@@ -121,18 +106,18 @@ Music_IntroBattle_Ch1::
 	notetype 12, 12, 5
 	A_ 4
 	notetype 12, 12, 2
-	octave 3
+	octave 12
 	D_ 2
 	D_ 2
 	notetype 12, 12, 7
 	octave 4
 	C# 4
 	D_ 8
-	octave 3
+	octave 12
 	D_ 8
 	octave 4
 	C_ 8
-	octave 3
+	octave 12
 	C_ 8
 	notetype 12, 12, 2
 	D_ 2
@@ -151,7 +136,7 @@ Music_IntroBattle_Ch1::
 	octave 4
 	C_ 4
 	notetype 12, 12, 2
-	octave 3
+	octave 12
 	D_ 2
 	D_ 2
 	notetype 12, 12, 5

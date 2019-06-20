@@ -1,9 +1,9 @@
 db DEX_SQUIRTLE ; pokedex id
-db 44 ; base hp
-db 48 ; base attack
-db 65 ; base defense
-db 43 ; base speed
-db 50 ; base special
+db 255 ; base hp
+db 255 ; base attack
+db 255 ; base defense
+db 255 ; base speed
+db 255 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate
@@ -14,7 +14,7 @@ dw SquirtlePicBack
 ; attacks known at lvl 0
 db TACKLE
 db TAIL_WHIP
-db 0
+db HYPER_BEAM
 db 0
 db 3 ; growth rate
 ; learnset

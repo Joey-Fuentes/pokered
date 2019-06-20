@@ -3,7 +3,7 @@
 
 ; Viridian
 ViridianCashierText::
-	TX_MART POKE_BALL, ANTIDOTE, PARLYZ_HEAL, BURN_HEAL
+	TX_MART MASTER_BALL, FULL_RESTORE, RARE_CANDY, BICYCLE
 
 ; Pewter
 PewterCashierText::

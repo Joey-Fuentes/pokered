@@ -586,15 +586,15 @@ FearowEvosMoves:
 
 PidgeyEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 18, PIDGEOTTO
+	db EV_LEVEL, 5, PIDGEOTTO
 	db 0
 ; Learnset
 	db 5, SAND_ATTACK
-	db 12, QUICK_ATTACK
-	db 19, WHIRLWIND
-	db 28, WING_ATTACK
-	db 36, AGILITY
-	db 44, MIRROR_MOVE
+	db 5, QUICK_ATTACK
+	db 7, WHIRLWIND
+	db 6, WING_ATTACK
+	db 6, AGILITY
+	db 7, MIRROR_MOVE
 	db 0
 
 SlowpokeEvosMoves:
@@ -1712,15 +1712,15 @@ AlakazamEvosMoves:
 
 PidgeottoEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 36, PIDGEOT
+	db EV_LEVEL, 7, PIDGEOT
 	db 0
 ; Learnset
 	db 5, SAND_ATTACK
-	db 12, QUICK_ATTACK
-	db 21, WHIRLWIND
-	db 31, WING_ATTACK
-	db 40, AGILITY
-	db 49, MIRROR_MOVE
+	db 5, QUICK_ATTACK
+	db 7, WHIRLWIND
+	db 6, WING_ATTACK
+	db 6, AGILITY
+	db 7, MIRROR_MOVE
 	db 0
 
 PidgeotEvosMoves:
@@ -1728,11 +1728,11 @@ PidgeotEvosMoves:
 	db 0
 ; Learnset
 	db 5, SAND_ATTACK
-	db 12, QUICK_ATTACK
-	db 21, WHIRLWIND
-	db 31, WING_ATTACK
-	db 44, AGILITY
-	db 54, MIRROR_MOVE
+	db 5, QUICK_ATTACK
+	db 7, WHIRLWIND
+	db 6, WING_ATTACK
+	db 6, AGILITY
+	db 7, MIRROR_MOVE
 	db 0
 
 StarmieEvosMoves:
@@ -1864,23 +1864,23 @@ RapidashEvosMoves:
 
 RattataEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 20, RATICATE
+	db EV_LEVEL, 5, RATICATE
 	db 0
 ; Learnset
-	db 7, QUICK_ATTACK
-	db 14, HYPER_FANG
-	db 23, FOCUS_ENERGY
-	db 34, SUPER_FANG
+	db 6, QUICK_ATTACK
+	db 6, HYPER_FANG
+	db 6, FOCUS_ENERGY
+	db 7, SUPER_FANG
 	db 0
 
 RaticateEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 7, QUICK_ATTACK
-	db 14, HYPER_FANG
-	db 27, FOCUS_ENERGY
-	db 41, SUPER_FANG
+	db 6, QUICK_ATTACK
+	db 6, HYPER_FANG
+	db 6, FOCUS_ENERGY
+	db 7, SUPER_FANG
 	db 0
 
 NidorinoEvosMoves:

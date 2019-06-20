@@ -151,7 +151,7 @@ StartMenu_Pokemon:
 	jp StartMenu_Pokemon
 .cut
 	bit 1, a ; does the player have the Cascade Badge?
-	jp z, .newBadgeRequired
+	; JOE jp z, .newBadgeRequired
 	predef UsedCut
 	ld a, [wActionResultOrTookBattleTurn]
 	and a

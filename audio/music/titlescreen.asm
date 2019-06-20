@@ -1,5 +1,5 @@
 Music_TitleScreen_Ch0::
-	tempo 144
+	tempo 90
 	volume 7, 7
 	vibrato 9, 3, 4
 	duty 3

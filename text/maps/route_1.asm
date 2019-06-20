@@ -1,27 +1,23 @@
 _Route1ViridianMartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "Hi! This game"
+	line "will be short..."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
-
-	para "I know, I'll give"
-	line "you a sample!"
+	para "Just take all"
+	line "of the HMs (1-5)"
 	cont "Here you go!"
 	prompt
 
 _Route1Text_1cae8::
 	text "<PLAYER> got"
-	line "@"
+	line "CUT,FLY,SURF"
+	cont "STENGTH, FLASH"
 	TX_RAM wcf4b
-	text "!@@"
+	done
 
 _Route1Text_1caee::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	;text "We also carry"
+	;line "# BALLs for"
+	;cont "catching #MON!"
 	done
 
 _Route1Text_1caf3::
